@@ -163,7 +163,7 @@ if __name__ == '__main__':
 
     _, _, featureNormalization = getDataset()
 
-    # Thetas and relative density chosen from line 2 of .csv file; 
+    # Thetas and relative density chosen from the data file; 
     # Must have double square brackets:
     x_orig = torch.tensor([[0.621797,0.,66.9923,0.]]) 
     # Normalize to [0,1] for all paraemters
