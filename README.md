@@ -1,6 +1,7 @@
 # Inverse-designed spinodoid metamaterials
 Implementation of machine learning framework for inverse design of spinodoid metamaterials as described in the following publication.
-To generate the spinodoid designs (predicted from the machine learning code), see: https://www.gibboncode.org/html/HELP_spinodoid.html.
+
+Note: To generate the spinodoid designs (predicted from machine learning), see: https://www.gibboncode.org/html/HELP_spinodoid.html.
 
 ## Citation
 If you use this code, please cite the following publication:
