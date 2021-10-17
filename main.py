@@ -169,7 +169,7 @@ if __name__ == '__main__':
     # Normalize to [0,1] for all paraemters
     x = featureNormalization.normalize(x_orig.clone());
 
-    # Stiffnesses from line 2 of .csv file
+    # Corresponding stiffness chosen from the data file; 
     # Must have double square brackets
     y = torch.tensor([[0.5437044,0.15359520000000002,0.1766492,0.3811624,0.15203440000000001,0.535709,0.157053,0.1799434,0.158551]]) 
 
