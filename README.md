@@ -3,7 +3,7 @@ Implementation of machine learning framework for "Inverse-designed Spinodoid Met
 
 ## Citation
 If you use this code, please cite the following publication:
-Kumar, S., Tan, S., Zheng, L. et al. Inverse-designed spinodoid metamaterials. npj Comput Mater 6, 73 (2020). https://doi.org/10.1038/s41524-020-0341-6
+S. Kumar, S. Tan, L. Zheng, D.M. Kochmann, *Inverse-designed spinodoid metamaterials*, _npj Comput Mater 6, 73_ (2020). https://doi.org/10.1038/s41524-020-0341-6
 
 Note: To generate the spinodoid designs (predicted from machine learning), see: https://www.gibboncode.org/html/HELP_spinodoid.html.
 
